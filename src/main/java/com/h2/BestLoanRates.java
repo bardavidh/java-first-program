@@ -9,6 +9,6 @@ public class BestLoanRates {
         String name=scanner.nextLine();
          System.out.println("Hello "+name);
     }
-    public static final Map<Integer,Float> bestRates=new Map<Integer,Float>.of(1,5.50f,2,3.45f,3,2.67f);
+    public static final Map<Integer,Float> bestRates= Map.of(1,5.50f,2,3.45f,3,2.67f);
 
 }
