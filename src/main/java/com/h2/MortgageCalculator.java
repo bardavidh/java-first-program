@@ -1,4 +1,3 @@
-
 package com.h2;
 import java.text.DecimalFormat;
 public class MortgageCalculator {
